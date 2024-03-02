@@ -28,14 +28,13 @@ function Header() {
           </div>
         </Link>
         <div className="log">
-          Hello <br />
           <span className="bold">
             <i className="fas fa-map-marker-alt"></i>
             Select your address
           </span>
         </div>
         <form className="flex">
-          <input type="text" placeholder="Search" />
+          <input type="text" placeholder="Search Amazon.in" />
           <button className="btn">
             <SearchIcon />
           </button>

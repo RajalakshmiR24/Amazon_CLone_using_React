@@ -27,7 +27,7 @@ function Makecard(props) {
           </div>
         </Link>
         <div className="price">${item.price}</div>
-        <div className="link">see more > </div>
+        <div className="link">see more  </div>
         <div>
           <Button
             className="add-cart-btn"

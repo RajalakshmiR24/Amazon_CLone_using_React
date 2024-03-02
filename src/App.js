@@ -5,6 +5,8 @@ import MainBody from "./components/MainBody";
 import DisplayPage from "./components/DisplayPage";
 import UserLog from "./components/UserLog";
 import Cart from "./components/Cart";
+import Footer from "./components/Footer";
+
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
@@ -13,7 +15,6 @@ function App() {
         <Switch>
           <Route path="/DisplayPage/:category/:id">
             <Header />
-            <DisplayPage />
           </Route>
           <Route path="/cart">
             <Header />
@@ -26,6 +27,7 @@ function App() {
             <Header />
             <Banner />
             <MainBody />
+            <Footer />
           </Route>
         </Switch>
       </Router>
