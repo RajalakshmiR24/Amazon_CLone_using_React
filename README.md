@@ -7,7 +7,9 @@ This is an online marketplace project built with React.js for the front end. The
 <center>
 
 <img src="./amazon.png" alt="amazon Poster"/>
-![Screenshot (1110)](https://github.com/RajalakshmiR24/Amazon_CLone_using_React/assets/127002476/df1669fd-0551-477a-ab27-39c30dd5d0e9)
+
+![Screenshot (1110)](https://github.com/RajalakshmiR24/Amazon_CLone_using_React/assets/127002476/0646c3bf-0741-4696-a565-09693a8087d6)
+
 
 ![Screenshot (1111)](https://github.com/RajalakshmiR24/Amazon_CLone_using_React/assets/127002476/befbf56f-9362-4d4f-82a2-dcc373576715)
 
