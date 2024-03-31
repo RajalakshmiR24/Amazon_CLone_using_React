@@ -2,7 +2,7 @@
 # Online-Marketplace-Amazon-Clone
 This is an online marketplace project built with React.js for the front end. The goal of this project is to create a clone of Amazon, where users can buy and sell products. It includes features such as user authentication, product search, shopping cart, checkout, and payment processing.
 
----------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <center>
 
@@ -16,7 +16,7 @@ This is an online marketplace project built with React.js for the front end. The
 ![Screenshot (1113)](https://github.com/RajalakshmiR24/Amazon_CLone_using_React/assets/127002476/55e6e97b-b3a6-40cf-a682-3436411c61cc)
 
 </center>
----------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Installation
 To run this project, you will need to have Node.js installed on your machine.
